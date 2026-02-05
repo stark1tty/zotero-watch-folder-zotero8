@@ -19,7 +19,7 @@ const DIST_DIR = path.join(ROOT_DIR, 'dist');
 
 // Plugin configuration
 const ADDON_ID = 'watch-folder@zotero-plugin';
-const GITHUB_USERNAME = 'YOUR_USERNAME';
+const GITHUB_USERNAME = 'josesiqueira';
 const GITHUB_REPO = 'zotero-watch-folder';
 const MIN_ZOTERO_VERSION = '8.0';
 
