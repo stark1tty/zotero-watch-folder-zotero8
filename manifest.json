@@ -3,7 +3,11 @@
   "name": "Zotero Watch Folder",
   "version": "1.0.0",
   "description": "Automatically import PDFs from a watched folder into Zotero with metadata retrieval and file organization.",
-  "author": "Jose",
+  "author": "Jose Siqueira",
+  "icons": {
+    "48": "content/icons/watch-folder-48.png",
+    "96": "content/icons/watch-folder-96.png"
+  },
   "applications": {
     "zotero": {
       "id": "watch-folder@zotero-plugin",

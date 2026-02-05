@@ -2,15 +2,13 @@
 
 ## Required Before Release
 
-### Icons (User Action Required)
-- [ ] Create `content/icons/watch-folder-16.png` - 16x16 icon for preference pane
-- [ ] Create `content/icons/watch-folder-48.png` - 48x48 icon (optional, for add-ons manager)
-- [ ] Create `content/icons/watch-folder-96.png` - 96x96 icon (optional, for add-ons manager)
+### Icons - COMPLETE ✓
+- [x] Create `content/icons/watch-folder-16.png` - 16x16 icon for preference pane
+- [x] Create `content/icons/watch-folder-48.png` - 48x48 icon for add-ons manager
+- [x] Create `content/icons/watch-folder-96.png` - 96x96 icon for add-ons manager
+- [x] Create `content/icons/watch-folder.svg` - Source SVG file
 
-**Note:** The preference pane references `content/icons/watch-folder-16.png` in bootstrap.js line 53.
-Without this icon, the preferences panel will still work but show no icon.
-
-**Suggested design:** A folder icon with an eye or refresh symbol to indicate "watching".
+**Design:** Teal folder icon with crow's eye - representing intelligent watching/monitoring.
 
 ---
 
